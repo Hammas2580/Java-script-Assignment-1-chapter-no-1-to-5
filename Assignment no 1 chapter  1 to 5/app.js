@@ -80,32 +80,75 @@
 // alert (value);
 // console.log(value);
 
+// chapter no 2 is complete 
+
 
 // ==================== chapter no 3  (variable for number ) ==================
 
 // ******************** Question no 1 ******************
 
-var age = 15;
+// var age = 15;
 
-alert ("I am" + " " + age + " years old");
+// alert ("I am" + " " + age + " years old");
 
 // ******************** Question no 2 ******************
 
-var visitCounter = "14 times";
-alert ("You have visited this site" + " " + visitCounter );
+// var visitCounter = "14 times";
+// alert ("You have visited this site" + " " + visitCounter );
 
 // ******************** Question no 3 ******************
 
-var birthYear = 20;
-console.log ("My birth years is" + " " + birthYear );
-console.log (typeof birthYear );
+// var birthYear = 20;
+// console.log ("My birth years is" + " " + birthYear );
+// console.log (typeof birthYear );
 
 // ******************** Question no 4 ******************
 
-var visitorName = "Hammas";
-var productQunatity = 5;
-var productTittle = "T-shirt(s)";
-console.log (visitorName + " " + "ordered" + " " +productQunatity + " " + productTittle + " " + "on Daraz Shopping Mall");
+// var visitorName = "Hammas";
+// var productQunatity = 5;
+// var productTittle = "T-shirt(s)";
+// console.log (visitorName + " " + "ordered" + " " +productQunatity + " " + productTittle + " " + "on Daraz Shopping Mall");
+
+//  chapter no 3 is complete
+
+// ==================== chapter no 4  (VARIABLE NAMES: LEGAL & ILLEGAL ) ==================
+
+// ******************** Question no 1 ******************
+
+// var statement = "Saylani , Mass , IT Traning";
+// console.log(statement);
+
+// ******************** Question no 2 ******************
+
+// legel variable name 
+
+// var $varible;
+// var varible1;
+// var varoi_ble;
+// var _varible;
+// var varibleName;
+
+// illegel variable name 
+
+// var 5varible1;
+// var var;
+// var #varible;
+// var var@ible;
+// var <#varible;
+
+// ******************** Question no 3  ******************
+
+// console.log ("Rules for naming JS variables");
+// console.log ("Variable name can conatin , Number , Dollars Sign , Letter , UnderScope");
+// console.log ("Variables must begin with a $name , _name , name");
+// console.log ("Variable names are case Sensitive");
+// console.log ("Variable names should not be JS keyword");
+
+
+
+
+
+
 
 
 
