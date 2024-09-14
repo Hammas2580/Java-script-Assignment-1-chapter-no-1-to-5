@@ -1,4 +1,4 @@
-// ============ chapter no 1 ============== 
+// ============ chapter no 1  (alert) ============== 
 
 // ************* Question no 1************* 
 
@@ -24,61 +24,89 @@
 // chapter no 1 Complete
 
 
-// ============ chapter no 2  ============== 
+// ============ chapter no 2 (varaible for string ) ============== 
 
 // ************* Question no 1 ************* 
 
-var usernme;
+// var usernme;
 
-// ************* Question no 2 ************* 
+// // ************* Question no 2 ************* 
 
-var myName = "Hammas";
+// var myName = "Hammas";
 
-// ************* Question no 3 ************* 
+// // ************* Question no 3 ************* 
 
-var message = "Hello World";
-alert(message);
+// var message = "Hello World";
+// alert(message);
 
-// ************* Question no 4 ************* 
+// // ************* Question no 4 ************* 
 
-var studentName  = "hammas";
+// var studentName  = "hammas";
 
-alert ( "student Name" + " " +  studentName);
+// alert ( "student Name" + " " +  studentName);
 
-var studentAge  = 20;
+// var studentAge  = 20;
 
-alert ( "student Age" + " " +  studentAge);
+// alert ( "student Age" + " " +  studentAge);
 
-var studentCourse  = "web and app development";
+// var studentCourse  = "web and app development";
 
-alert ( "student Course" + " " +  studentCourse);
+// alert ( "student Course" + " " +  studentCourse);
 
-// *************** Question no 5 ***************
-
-
-var string = "pizza pizza";
-alert(string);
-
-// ************* Question no 6  ************* 
-
-var email = "hammas2580@gmail.com";
-alert ("My email address is" + " " + email);
-
-// ************* Question no 7  ************* 
-
-var book = "A Smater Way to Learn JavaScript";
-alert (book);
+// // *************** Question no 5 ***************
 
 
-// ************* Question no 8  ************* 
+// var string = "pizza pizza";
+// alert(string);
 
-document.write ("Yah ! I can write HTML content trought Java script");
+// // ************* Question no 6  ************* 
 
-// ************* Question no 9  ************* 
+// var email = "hammas2580@gmail.com";
+// alert ("My email address is" + " " + email);
 
-var value = "hammas" ;
-alert (value);
-console.log(value);
+// // ************* Question no 7  ************* 
+
+// var book = "A Smater Way to Learn JavaScript";
+// alert (book);
+
+
+// // ************* Question no 8  ************* 
+
+// document.write ("Yah ! I can write HTML content trought Java script");
+
+// // ************* Question no 9  ************* 
+
+// var value = "hammas" ;
+// alert (value);
+// console.log(value);
+
+
+// ==================== chapter no 3  (variable for number ) ==================
+
+// ******************** Question no 1 ******************
+
+var age = 15;
+
+alert ("I am" + " " + age + " years old");
+
+// ******************** Question no 2 ******************
+
+var visitCounter = "14 times";
+alert ("You have visited this site" + " " + visitCounter );
+
+// ******************** Question no 3 ******************
+
+var birthYear = 20;
+console.log ("My birth years is" + " " + birthYear );
+console.log (typeof birthYear );
+
+// ******************** Question no 4 ******************
+
+var visitorName = "Hammas";
+var productQunatity = 5;
+var productTittle = "T-shirt(s)";
+console.log (visitorName + " " + "ordered" + " " +productQunatity + " " + productTittle + " " + "on Daraz Shopping Mall");
+
 
 
 
